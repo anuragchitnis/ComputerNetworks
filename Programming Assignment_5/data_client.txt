@@ -1,0 +1,5 @@
+You hear a lot these days about the potential for impending doom as AI becomes ever smarter.
+Indeed, big names are calling for caution: the futurist optimism of protagonists like Ray Kurzweil is outweighed by the concern expressed by Bill Gates, Elon Musk and Stephen Hawking. And Swedish philosopher Nick Bostrom’s scary thought experiments around what AI might lead to could well sustain a new strain of Nordic noir. There are, indeed, reasons to be concerned.
+The fictional Hal’s refusal to open the pod bay doors in Kubrick’s 2001: A Space Odyssey seems a lot less like fiction than it did when the movie came out almost 50 years ago. Today, we have real reason to be concerned about the potential for autonomous drones making decisions about who to take out, or self-driving cars making a choice between hitting a roadside tree and hitting a child.
+It doesn’t have to be like that. There is a better way to make use of AI, and the key is recognizing that human and machine intelligences are complementary.
+end
